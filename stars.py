@@ -23,7 +23,6 @@ for i in range(8,0,-1):
     print(' ')
     count+=1
 
-print ("\n")
 
 count =0
 for i in range(8,0,-1):
